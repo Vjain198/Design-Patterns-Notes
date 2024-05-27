@@ -1,0 +1,35 @@
+#Design Pattern Guide
+
+#Basics of  Design Patterns - 
+
+
+Definition - 
+1- A design pattern is a well-defined approach to solving the recurring problem when creating the software. 
+
+2- Design patterns represent an idea or approach to creating software.
+
+
+3-Categorization of Design Patterns -  The Design patterns are categorized into three categories.
+
+--> Creational Design Patterns  These patterns represent the idea or approach related to Object creation.
+
+--> Some common creation design patterns are - Factory Design Patterns, Singleton Design Patterns , Builder Design Patterns, etc. 
+
+--> Structural Design Patterns - These patterns represent the idea or approach of how our classes, objects, or software code should be structured.
+
+--> Some common creation design patterns are - Proxy Patterns, Adaptor Patterns, etc.
+
+--> Behavioral Design Patterns -  These patterns represent the idea or approach of how two or more objects communicate or interact with each other.
+
+--> Some common creation design patterns are - Observer Patterns, State Patterns, Iterator Patterns, etc.
+
+
+
+
+
+
+
+
+
+
+
